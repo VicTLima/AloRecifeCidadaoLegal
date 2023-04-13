@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alô Recife</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Lembrar Senha</string>
+    <string name="newAccount">Nova Conta</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. </string>
+    <string name="msgError">Login/Senha não conferem - Usuário Incorreto</string>
+    <string name="account">Insira seu nome</string>
+    <string name="id">RG/CPF</string>
+    <string name="phone">Celular</string>
+    <string name="page2">Abra sua Conta</string>
+    <string name="btAccount">Inserir</string>
+    <string name="page3">Selecão de Serviço</string>
+    <string name="construction">Entulhos de Obra</string>
+    <string name="holes">Buraco na Pista</string>
+    <string name="lamp">Lâmpada Queimada</string>
+    <string name="tree">Poda de Árvores</string>
+    <string name="recycle">Lixo Reciclável</string>
+    <string name="msgcad">Cadasto</string>
+    <string name="msgcad2">Cadasto Inválido</string>
+    <string name="select">Abrir</string>
+    <string name="page4">Abrir Chamado</string>
+    <string name="senha2">Nova Senha</string>
+    <string name="discription">Descrição da Solicitação</string>
+    <string name="Greetings">Boas Vindas</string>
+    <string name="msgGreet">Seja Bem Vindo ao Alô Recife - Cidadão legal.
+        Aqui você pode ajudar a Prefeitura do Recife
+        a melhorar as condições da localidade que voce
+        costuma frequentar garantindo uma melhor
+        qualidade de vida. Obrigado por participar. </string>
+    <string name="Greetings2">Greetings</string>
+</resources>

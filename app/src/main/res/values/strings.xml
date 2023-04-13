@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Alô Recife</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember Password</string>
+    <string name="newAccount">New Accpount</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. </string>
+    <string name="msgError">User error</string>
+    <string name="account">Insert your Nome</string>
+    <string name="id">ID Code</string>
+    <string name="phone">Cell Phone</string>
+    <string name="page2">Make your Account</string>
+    <string name="btAccount">Insert</string>
+    <string name="page3">Select Service</string>
+    <string name="construction">Construction Debris</string>
+    <string name="holes">Holes in the track</string>
+    <string name="lamp">Lamp burned</string>
+    <string name="tree">Pruning tree</string>
+    <string name="recycle">Recyclable trash</string>
+    <string name="msgcad">Cadasto Efetuado</string>
+    <string name="msgcad2">Cadasto</string>
+    <string name="select">Abrir</string>
+    <string name="page4">Open Request</string>
+    <string name="senha2">New Password</string>
+    <string name="discription">Description</string>
+    <string name="Greetings">Greetings</string>
+    <string name="msgGreet">Greetings</string>
+    <string name="Greetings2">Greetings</string>
+</resources>
