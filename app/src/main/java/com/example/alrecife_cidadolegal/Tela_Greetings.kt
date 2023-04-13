@@ -3,6 +3,7 @@ package com.example.alrecife_cidadolegal
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
 import com.example.alrecife_cidadolegal.databinding.ActivityTelaCadastroBinding
 import com.example.alrecife_cidadolegal.databinding.ActivityTelaGreetingsBinding
@@ -17,10 +18,9 @@ class Tela_Greetings : AppCompatActivity() {
 
         val boavinda = binding.btvolta
         var gnome = intent.getStringExtra("nome")
+        val pessoa = findViewById<TextView>(R.id.nome)
 
-        val pessoa = binding.nome
-
-       //pessoa.setText(nome)
+        pessoa.setText(gnome)
 
 
 
