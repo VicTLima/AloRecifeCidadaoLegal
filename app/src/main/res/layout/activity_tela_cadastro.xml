@@ -97,15 +97,26 @@
         app:layout_constraintStart_toStartOf="@+id/phone"
         app:layout_constraintTop_toBottomOf="@+id/phone" />
 
+    <Button
+        android:id="@+id/btRelatorio"
+        android:layout_width="217dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/btRelatorio"
+        app:layout_constraintEnd_toEndOf="@+id/btAccount"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/btAccount"
+        app:layout_constraintTop_toBottomOf="@+id/btAccount" />
+
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="92dp"
         android:layout_height="73dp"
         android:layout_marginTop="24dp"
-        app:layout_constraintEnd_toEndOf="@+id/btAccount"
+        app:layout_constraintEnd_toEndOf="@+id/btRelatorio"
         app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="@+id/btAccount"
-        app:layout_constraintTop_toBottomOf="@+id/btAccount"
+        app:layout_constraintStart_toStartOf="@+id/btRelatorio"
+        app:layout_constraintTop_toBottomOf="@+id/btRelatorio"
         app:srcCompat="@drawable/logo_recife" />
 
 
